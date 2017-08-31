@@ -7,5 +7,6 @@ public class helloWorld {
 		System.out.println("Added newly");
 		System.out.println("Added newly");
 		System.out.println("Git and Jenkins");
+		System.out.println("Checking Auto Trigger");
     }
 }
